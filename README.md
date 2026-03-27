@@ -34,4 +34,4 @@ Your InteliG admin can configure sync behavior in **Settings > Signal**:
 
 ---
 
-Powered by [InteliG](https://intelig.ai) — AI-first engineering intelligence.
+Powered by [InteliG](https://intelig.ai) — execution intelligence for engineering organizations.
